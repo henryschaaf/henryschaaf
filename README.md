@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henryschaaf
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Javascribt
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me henryjulianschaaf@gmail.com
 
